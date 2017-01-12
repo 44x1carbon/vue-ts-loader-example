@@ -1,0 +1,23 @@
+{
+  "name": "vue-ts-test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "typescript": "^2.1.5",
+    "vue-loader": "^10.0.2",
+    "vue-template-compiler": "^2.1.8",
+    "vue-ts-loader": "0.0.3",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "vue": "^2.1.8"
+  }
+}
